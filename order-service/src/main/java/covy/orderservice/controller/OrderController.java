@@ -1,6 +1,5 @@
 package covy.orderservice.controller;
 
-import com.netflix.discovery.converters.Auto;
 import covy.orderservice.dto.OrderDto;
 import covy.orderservice.entity.OrderEntity;
 import covy.orderservice.messagequeue.producer.KafkaProducer;
